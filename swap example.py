@@ -1,0 +1,5 @@
+x=input("enter x")
+y=input("enter y")  
+x=(x+y)   
+y=(x-y)     
+print('The swapped values are {}{}'.format(x,y) )
